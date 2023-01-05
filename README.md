@@ -7,6 +7,10 @@ conda create -n user-training-study python=3.8
 
 ## Ray
 
+- [x] simple quick start
+- [ ] ray cluster on aws (failed)
+- [ ] ray pytorch training 
+
 
 
 ## PyTorch Lighting
