@@ -13,8 +13,7 @@ conda create -n user-training-study python=3.8
     - [x] mnist
         - [x] M1 Pro Local
         - [x] AWS 4 T4 GPUs
-    - [] HuggingFace transformer
-
+    - [ ] HuggingFace transformer
 
 
 ## PyTorch Lighting
