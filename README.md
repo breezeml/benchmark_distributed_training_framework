@@ -15,14 +15,13 @@ conda create -n user-training-study python=3.8
         - [x] AWS 4 T4 GPUs
     - [ ] HuggingFace transformer
 
-
-## PyTorch Lighting
-
-
-## HuggingFace
+## HuggingFace accelerate
+[doc](https://huggingface.co/docs/transformers/accelerate)
 
 
 ## Horvord
+
+## PyTorch Lighting
 
 
 ## Popular ML conference codebase
