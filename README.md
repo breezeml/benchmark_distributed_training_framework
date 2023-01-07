@@ -32,7 +32,9 @@ conda create -n user-training-study python=3.8
 
 
 
-## Popular ML conference codebase
+## Popular ML codebase
+
+- [ ] timm [code](https://github.com/rwightman/pytorch-image-models)
 
 
 
