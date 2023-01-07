@@ -21,9 +21,15 @@ conda create -n user-training-study python=3.8
 [doc](https://huggingface.co/docs/transformers/accelerate)
 
 
+
 ## Horvord
 
+
 ## PyTorch Lighting
+
+## GNN
+[GNN Tutorial](https://github.com/dair-ai/GNNs-Recipe)
+
 
 
 ## Popular ML conference codebase
