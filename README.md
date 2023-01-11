@@ -8,7 +8,7 @@ conda create -n user-training-study python=3.8
 ## Ray [[doc]](https://docs.ray.io/en/latest/train/examples.html)
 
 - [x] simple quick start
-- [x] ray cluster on aws (failed)
+- [x] ray cluster on aws
 - [ ] ray job submit
 - [ ] ray pytorch training
     - [x] mnist
