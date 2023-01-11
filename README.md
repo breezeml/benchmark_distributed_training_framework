@@ -5,8 +5,7 @@ To simulate and study user training workflow using many different frameworks
 conda create -n user-training-study python=3.8
 ```
 
-## Ray
-[doc](https://docs.ray.io/en/latest/train/examples.html)
+## Ray [[doc]](https://docs.ray.io/en/latest/train/examples.html)
 
 - [x] simple quick start
 - [x] ray cluster on aws (failed)
@@ -17,8 +16,9 @@ conda create -n user-training-study python=3.8
         - [x] AWS 4 T4 GPUs
     - [ ] HuggingFace transformer
 
-## HuggingFace accelerate
-[doc](https://huggingface.co/docs/transformers/accelerate)
+## Torch Elastic [[doc]](https://pytorch.org/docs/stable/elastic/run.html)
+
+## HuggingFace accelerate [doc](https://huggingface.co/docs/transformers/accelerate)
 
 
 
@@ -27,14 +27,12 @@ conda create -n user-training-study python=3.8
 
 ## PyTorch Lighting
 
-## GNN
-[GNN Tutorial](https://github.com/dair-ai/GNNs-Recipe)
-
-
 
 ## Popular ML codebase
 
-- [ ] timm [code](https://github.com/rwightman/pytorch-image-models)
+- CV
+    - [ ] timm [code](https://github.com/rwightman/pytorch-image-models)
 
-
+- GNN
+    - [ ] GNN [GNN Tutorial](https://github.com/dair-ai/GNNs-Recipe)
 
