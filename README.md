@@ -20,9 +20,9 @@ conda create -n user-training-study python=3.8
 
 ## HuggingFace accelerate [doc](https://huggingface.co/docs/transformers/accelerate)
 
-
-
 ## Horvord
+
+## MosicML Composer [doc](https://mosaicml.com/docs/)
 
 
 ## PyTorch Lighting
