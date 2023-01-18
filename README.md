@@ -22,7 +22,7 @@ The following frameworks will be tested:
 git@github.com:breezeml/benchmark_distributed_training_framework.git
 
 # create a conda env
-conda create -n user-training-study python=3.8
+conda create -n benchmark_distributed_training python=3.8
 ```
 
 ## :hammer: Framework Walkthrough
