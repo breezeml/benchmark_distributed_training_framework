@@ -1,9 +1,31 @@
-# User-Training-Behavior-Collection
-To simulate and study user training workflow using many different frameworks
+# Benchmark Distributed Training Frameworks
 
-```python
+![GitHub](https://img.shields.io/github/license/breezeml/benchmark_distributed_training_framework) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/breezeml/benchmark_distributed_training_framework) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/breezeml/benchmark_distributed_training_framework)
+
+This repo is used to benchmark different distributed training frameworks. We walkthrough the basic usage of each framework and benchmark the performance of each framework on different hardware.
+
+Another main goal of this repo is to test the user-friendly of each framework. We will try to use each framework to train a simple model and see how easy it is to use.
+
+The following frameworks will be tested:
+- [x] Ray
+- [ ] Torch Elastic
+- [ ] HuggingFace accelerate
+- [ ] Horvord
+- [ ] MosicML Composer
+- [ ] PyTorch Lighting
+
+
+## :rocket: Quick Start
+
+```bash
+# clone the repo
+git@github.com:breezeml/benchmark_distributed_training_framework.git
+
+# create a conda env
 conda create -n user-training-study python=3.8
 ```
+
+## :hammer: Framework Walkthrough
 
 ## Ray [[doc]](https://docs.ray.io/en/latest/train/examples.html)
 
@@ -16,23 +38,24 @@ conda create -n user-training-study python=3.8
         - [x] AWS 4 T4 GPUs
     - [ ] HuggingFace transformer
 
-## Torch Elastic [[doc]](https://pytorch.org/docs/stable/elastic/run.html)
+### Torch Elastic [[doc]](https://pytorch.org/docs/stable/elastic/run.html)
 
-## HuggingFace accelerate [doc](https://huggingface.co/docs/transformers/accelerate)
+### HuggingFace accelerate [doc](https://huggingface.co/docs/transformers/accelerate)
 
-## Horvord
+### Horvord
 
-## MosicML Composer [doc](https://mosaicml.com/docs/)
-
-
-## PyTorch Lighting
+### MosicML Composer [doc](https://mosaicml.com/docs/)
 
 
-## Popular ML codebase
+### PyTorch Lighting
 
-- CV
-    - [ ] timm [code](https://github.com/rwightman/pytorch-image-models)
+### :chart_with_upwards_trend: Performance Results
 
-- GNN
-    - [ ] GNN [GNN Tutorial](https://github.com/dair-ai/GNNs-Recipe)
+
+## :books: References
+
+
+## :memo: License
+
+MIT
 
