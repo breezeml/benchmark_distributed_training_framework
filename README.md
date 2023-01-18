@@ -27,7 +27,7 @@ conda create -n user-training-study python=3.8
 
 ## :hammer: Framework Walkthrough
 
-## Ray [[doc]](https://docs.ray.io/en/latest/train/examples.html)
+### Ray [[doc]](https://docs.ray.io/en/latest/train/examples.html)
 
 - [x] simple quick start
 - [x] ray cluster on aws
@@ -49,11 +49,14 @@ conda create -n user-training-study python=3.8
 
 ### PyTorch Lighting
 
-### :chart_with_upwards_trend: Performance Results
+## :chart_with_upwards_trend: Performance Results
+
+- [ ] WIP
 
 
 ## :books: References
 
+- [PyTorch Distributed Training](https://pytorch.org/tutorials/intermediate/dist_tuto.html)
 
 ## :memo: License
 
